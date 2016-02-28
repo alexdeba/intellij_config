@@ -1,0 +1,59 @@
+<templateSet group="Comment Blocks">
+  <template name="com_ctor" value="    /****************************************&#10; * * * *         CONSTRUCTORS     * * * *&#10; ****************************************/" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+    </context>
+  </template>
+  <template name="com_meth" value="    /****************************************&#10; * * * *     SUPPORT METHODS      * * * *&#10; ****************************************/" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="com_const" value="&#9;/***************************************&#10; * * * *        CONSTANTS         * * * *&#10; ****************************************/" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="com_act_life" value="    /****************************************&#10; * * * *    ACTIVITY LIFECYCLE    * * * *&#10; ****************************************/" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="com_view_life" value="    /****************************************&#10; * * * *      VIEW LIFECYCLE      * * * *&#10; ****************************************/" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="com_fields" value="    /****************************************&#10; * * * *          FIELDS          * * * *&#10; ****************************************/" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="com_impl" value="&#9;/****************************************&#10; * * * *     IMPLEMENTATION       * * * *&#10; ****************************************/" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="com_life" value="    /****************************************&#10; * * * *         LIFECYCLE        * * * *&#10; ****************************************/" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="com_prop" value="    /****************************************&#10; * * * *        PROPERTIES        * * * *&#10; ****************************************/" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+</templateSet>
