@@ -1,21 +1,41 @@
-= Test
+= Android Studio Cheat Sheet
 :experimental:
 
 
-
-
 |===
-|Shortcut |Purpose
+||Keyboard |Mouse
 
-|kbd:[F11]
-|Toggle fullscreen
 
-|kbd:[Ctrl+T]
-|Open a new tab
+|*Code editing*
+|
+|
 
-|kbd:[Ctrl+Shift+N]
-|New incognito window
+|Code completion
+|kbd:[Tab]
+|
 
-|kbd:[Ctrl + +]
-|Increase zoom
+
+|Quick fix / Show _intentions_
+|kbd:[Alt + Enter]
+|
+
+
+|Complete/fix statement
+|kbd:[Ctrl + Shift + Enter]
+|
+
+
+|
+|
+|
+
+|*Code browsing*
+|
+|
+
+
+|Find Usages
+|kbd:[Ctrl + G] or kbd:[F9]
+|
+
 |===
